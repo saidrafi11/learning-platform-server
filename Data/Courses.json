@@ -1,0 +1,80 @@
+[
+    {
+        "_id": "001",
+        
+        "category_id": "01",
+        
+        "title": "English 1st paper full course",
+        
+        "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKHu8dSeAUmsoesUjnNqht4GCALp4vBLfhA&usqp=CAU",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKHu8dSeAUmsoesUjnNqht4GCALp4vBLfhA&usqp=CAU",
+        "details": "HSC English 1st Paper all units with all lessons | English First Paper Class 11-12 And Alim. HSC English 1st Paper (all units with all lessons)"
+      },
+    {
+        "_id": "002",
+        
+        "category_id": "02",
+        
+        "title": "Admission test full course",
+        
+        "thumbnail_url": "https://cdn.10minuteschool.com/images/Admission/Thumbnails/Admission%20Course%20-%20Title%20Thumbnail%20Landscape%20Ratio.jpg",
+
+        "image_url": "https://cdn.10minuteschool.com/images/Admission/Thumbnails/Admission%20Course%20-%20Title%20Thumbnail%20Landscape%20Ratio.jpg",
+
+        "details": "University Admission Course 2022 | University Admission Course 10 Minute School | Admission Test."
+      },
+    {
+        "_id": "003",
+        
+        "category_id": "03",
+        
+        "title": "Job prep full course",
+        
+        "thumbnail_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/201911/jobs_imagei660x450_051119042404.jpg",
+
+        "image_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/201911/jobs_imagei660x450_051119042404.jpg",
+
+        "details": "Exam preparation online study is best web apps for job solution.You can access all previous bcs exam questions, primary teacher recruitment exam (NTRCA)"
+      },
+    {
+        "_id": "004",
+        
+        "category_id": "04",
+        
+        "title": "Get ready for BCS",
+        
+        "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQiz8vN-qc7g8MKcuRuAktpVvjoP68-bL1lRYgHyb8ICyCpeRycaQNAynxEhTQL2VwEa0&usqp=CAU",
+
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQiz8vN-qc7g8MKcuRuAktpVvjoP68-bL1lRYgHyb8ICyCpeRycaQNAynxEhTQL2VwEa0&usqp=CAU",
+
+        "details": "BCS is the biggest government job oppurtunity available in Bangladesh. To make the preparation easy, we have largest question database prepared for you."
+      },
+    {
+        "_id": "005",
+        
+        "category_id": "05",
+        
+        "title": "programming for all",
+        
+        "thumbnail_url": "https://amilanipun.com/php_assets/uploads/2020/12/framework1.jpg",
+
+        "image_url": "https://amilanipun.com/php_assets/uploads/2020/12/framework1.jpg",
+
+        "details": "Computer programmer skills are methods and processes that provide computers with instructions on what actions to perform. Collectively known as “code,” "
+      },
+    {
+        "_id": "006",
+        
+        "category_id": "06",
+        
+        "title": "Vocab for all",
+        
+        "thumbnail_url": "https://www.english-efl.com/wp-content/uploads/2019/12/vocabulary.png",
+
+        "image_url": "https://www.english-efl.com/wp-content/uploads/2019/12/vocabulary.png",
+        
+        "details": "Here we put together lists of topic-specific vocabulary and the way you can use them in the exam. You'll find detailed explanations and an IELTS vocabulary"
+      }
+      
+
+]
